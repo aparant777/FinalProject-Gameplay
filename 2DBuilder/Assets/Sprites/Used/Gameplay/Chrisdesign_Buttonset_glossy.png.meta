@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 3ac818fbaa7337b43ad35bf92b0062d7
+timeCreated: 1441801017
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chrisdesign_Buttonset_glossy_0
+    21300002: Chrisdesign_Buttonset_glossy_1
+    21300004: Chrisdesign_Buttonset_glossy_2
+    21300006: Chrisdesign_Buttonset_glossy_3
+    21300008: Chrisdesign_Buttonset_glossy_4
+    21300010: Chrisdesign_Buttonset_glossy_5
+    21300012: Chrisdesign_Buttonset_glossy_6
+    21300014: Chrisdesign_Buttonset_glossy_7
+    21300016: Chrisdesign_Buttonset_glossy_8
+    21300018: Chrisdesign_Buttonset_glossy_9
+    21300020: Chrisdesign_Buttonset_glossy_10
+    21300022: Chrisdesign_Buttonset_glossy_11
+    21300024: Chrisdesign_Buttonset_glossy_12
+    21300026: Chrisdesign_Buttonset_glossy_13
+    21300028: Chrisdesign_Buttonset_glossy_14
+    21300030: Chrisdesign_Buttonset_glossy_15
+    21300032: Chrisdesign_Buttonset_glossy_16
+    21300034: Chrisdesign_Buttonset_glossy_17
+    21300036: Chrisdesign_Buttonset_glossy_18
+    21300038: Chrisdesign_Buttonset_glossy_19
+    21300040: Chrisdesign_Buttonset_glossy_20
+    21300042: Chrisdesign_Buttonset_glossy_21
+    21300044: Chrisdesign_Buttonset_glossy_22
+    21300046: Chrisdesign_Buttonset_glossy_23
+    21300048: Chrisdesign_Buttonset_glossy_24
+    21300050: Chrisdesign_Buttonset_glossy_25
+    21300052: Chrisdesign_Buttonset_glossy_26
+    21300054: Chrisdesign_Buttonset_glossy_27
+    21300056: Chrisdesign_Buttonset_glossy_28
+    21300058: Chrisdesign_Buttonset_glossy_29
+    21300060: Chrisdesign_Buttonset_glossy_30
+    21300062: Chrisdesign_Buttonset_glossy_31
+    21300064: Chrisdesign_Buttonset_glossy_32
+    21300066: Chrisdesign_Buttonset_glossy_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Chrisdesign_Buttonset_glossy_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 242
+        width: 207
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1435
+        width: 546
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_2
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1436
+        width: 185
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_3
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1436
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_4
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1439
+        width: 710
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1241
+        width: 547
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1243
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_7
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1242
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_8
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1241
+        width: 710
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1038
+        width: 546
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_10
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1045
+        width: 185
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_11
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1045
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_12
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1048
+        width: 710
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 845
+        width: 547
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_14
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 846
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_15
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 847
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_16
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 850
+        width: 710
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 649
+        width: 547
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_18
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 650
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_19
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 649
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_20
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 653
+        width: 710
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_21
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 448
+        width: 547
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_22
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 450
+        width: 185
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_23
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 452
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_24
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 451
+        width: 710
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_25
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 250
+        width: 547
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_26
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 251
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_27
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 250
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_28
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 253
+        width: 710
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 39
+        width: 206
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_30
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 48
+        width: 547
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_31
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 50
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_32
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 52
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chrisdesign_Buttonset_glossy_33
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 51
+        width: 710
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

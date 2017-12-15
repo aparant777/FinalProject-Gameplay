@@ -1,0 +1,12 @@
+
+/*TODO: Estimated time wrritten on 1 nad a half years before 05-11-2017*/
+
+1. use different shapes having different physics materials like slippery, gluey.
+2. Use of bombs, which will explode after certain amount of time
+(better not to catch them)
+3. Some way in which the base platform size can be changed
+(increased or decreased)
+4. Better quality of sprites(images used)
+5. a better platform.(more rugged and irregularly shaped inorder to hold the shapes.
+
+6. Addition of more shapes (a pentagon(5sides), hexagon(6sides)
